@@ -1,0 +1,48 @@
+Feature,Category,Numeric_Code
+DISTRICT,Ahilyanagar,0
+DISTRICT,Amravati,1
+DISTRICT,Bhandara,2
+DISTRICT,Bid,3
+DISTRICT,Buldana,4
+DISTRICT,Chandrapur,5
+DISTRICT,Chhatrapati Sambhajinagar,6
+DISTRICT,Gondiya,7
+DISTRICT,Jalgaon,8
+DISTRICT,Kolhapur,9
+DISTRICT,Mumbai,10
+DISTRICT,Mumbai Suburban,11
+DISTRICT,Nagpur,12
+DISTRICT,Nanded,13
+DISTRICT,Nashik,14
+DISTRICT,Parbhani,15
+DISTRICT,Pune,16
+DISTRICT,Raigarh,17
+DISTRICT,Ratnagiri,18
+DISTRICT,Satara,19
+DISTRICT,Solapur,20
+DISTRICT,Thane,21
+DISTRICT,Wardha,22
+DISTRICT,Washim,23
+AGE_GROUP,Balanced households,0
+AGE_GROUP,Grown-up - dominant,1
+AGE_GROUP,Seniors - dominant,2
+AGE_GROUP,Youngsters - dominant,3
+OCCUPATION_GROUP,Daily Wage Earners,0
+OCCUPATION_GROUP,Entrepreneurs,1
+OCCUPATION_GROUP,Retired/Aged,2
+OCCUPATION_GROUP,Salaried Class,3
+EDU_GROUP,Graduates household,0
+EDU_GROUP,Less than Matriculates Household,1
+EDU_GROUP,Matriculates household,2
+GENDER_GROUP,Balanced,0
+GENDER_GROUP,Female Dominated,1
+GENDER_GROUP,Male Dominated,2
+SIZE_GROUP,1 Member,0
+SIZE_GROUP,11-15 Members,1
+SIZE_GROUP,2 Members,2
+SIZE_GROUP,3 Members,3
+SIZE_GROUP,4 Members,4
+SIZE_GROUP,5 Members,5
+SIZE_GROUP,6 Members,6
+SIZE_GROUP,7 Members,7
+SIZE_GROUP,8-10 Members,8

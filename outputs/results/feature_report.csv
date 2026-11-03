@@ -1,0 +1,8 @@
+Feature,Type
+TOT_INCOME,Numerical
+DISTRICT,Categorical
+AGE_GROUP,Categorical
+OCCUPATION_GROUP,Categorical
+EDU_GROUP,Categorical
+GENDER_GROUP,Categorical
+SIZE_GROUP,Categorical

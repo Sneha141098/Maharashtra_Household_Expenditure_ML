@@ -1,0 +1,3 @@
+Target,Best_R2_Model,Best_R2_Score,Best_MAE_Model,Best_MAE,Best_RMSE_Model,Best_RMSE
+Transportation,Linear Regression,0.2541646631397141,Support Vector Regression,512.5414226154116,Linear Regression,1098.3589002661872
+Food,Bagging Regressor,0.5904235699571154,Bagging Regressor,1782.6931146357567,Bagging Regressor,2621.883129530878

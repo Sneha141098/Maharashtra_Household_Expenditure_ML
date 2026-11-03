@@ -1,0 +1,3 @@
+Target,Selected_Model,R2_With_District,R2_Without_District,R2_Difference
+Transportation,Linear Regression,-57.73917902251938,0.10921168081676447,-57.84839070333614
+Food,Gradient Boosting,0.6173297867588148,0.3773958013115669,0.23993398544724787
