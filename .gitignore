@@ -1,18 +1,18 @@
-# Private household dataset
+﻿# Private household data
 data/
-# Python virtual environment
+outputs/models/
+outputs/results/cleaned_household_data.csv
+outputs/results/merged_household_data.csv
+# Python environment and cache
 .venv/
 venv/
 env/
-# Python cache
 __pycache__/
 *.pyc
 # Secrets
 .env
 .env.*
-.streamlit/secrets.toml
-# IDE files
+# IDE and notebooks
 .vscode/
 .idea/
-# Jupyter
 .ipynb_checkpoints/
